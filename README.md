@@ -1,13 +1,17 @@
-This Flutter code builds a **Home Screen** with a **Bottom Navigation Bar** that has two tabs: 
+# firebasetask
 
-1. **Home Tab**: Displays a list of posts fetched from an API. Users can search for specific posts using a **Search TextField**, which filters the displayed posts by title based on user input.
-  
-2. **Profile Tab**: Shows the user’s information (retrieved from Firebase), but without edit options. It includes a **Logout Button** that logs the user out of Firebase and navigates them back to the login screen, clearing the session.
+A new Flutter project.
 
-### Key Features:
-- **BottomNavigationBar**: Allows navigation between the Home and Profile tabs.
-- **FirebaseAuth**: Manages user session and enables the logout functionality.
-- **API Integration**: Uses HTTP requests to fetch and display post data from an external API.
-- **Search Filtering**: Allows real-time search of posts by title.
-  
-Overall, this code provides a structured, user-friendly screen layout that integrates both API data and Firebase authentication for an engaging and secure user experience.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+# the-grill-resturant
